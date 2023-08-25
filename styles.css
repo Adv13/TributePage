@@ -1,0 +1,28 @@
+
+#main{
+  margin:auto;
+  padding:auto;
+}
+
+#title{
+  text-align:center;
+}
+
+img{
+ display:block;
+}
+
+#img-div{
+  align-items: center;
+  justify-content:center;
+}
+
+#image{
+  max-width:100%;
+  height:auto;
+  text-align:center;
+}
+
+#img-caption, #tribute-info{
+  text-align:center;
+}
